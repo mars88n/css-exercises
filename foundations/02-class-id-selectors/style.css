@@ -1,0 +1,16 @@
+.dispari {
+    font-family: "Verdana", "DejaVuSans", sans-serif ;
+    background-color: #dda8af;
+}
+
+#due {
+    color: rgb(12, 106, 230);
+    font-size: 36px;
+}
+.tre, #quattro {
+    font-size: 24px;
+}
+#quattro {
+    background-color: aquamarine;
+    font-weight: bold;
+}
